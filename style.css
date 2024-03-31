@@ -39,6 +39,8 @@ body{
     border-radius: 5px;
     margin-top: 15px;
     padding: 4px;
+    cursor: pointer;
+    
     
 }
 
@@ -48,6 +50,11 @@ body{
     
     font-size: x-large;
 }
+.card-Heading:hover{
+    color:hsl(47, 88%, 63%); 
+    cursor: pointer;
+}
+
 .content{
     margin-bottom: 20px;
 }
